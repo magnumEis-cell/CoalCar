@@ -1,0 +1,7 @@
+name: CoalCar
+version: '${project.version}'
+main: coalcar.minecraftserver.MinecraftServer
+depend: [ProtocolLib]
+commands:
+  spawncar:
+    description: Beautifull Car ,u can drive when u drop coal in it ;D
